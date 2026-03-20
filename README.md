@@ -1,4 +1,4 @@
-## **Project Overview**
+## **Project Overview: Retail Analytics Pipeline**
 
 This project builds an end-to-end data pipeline using Python and Azure SQL to analyze retail sales data.
 
