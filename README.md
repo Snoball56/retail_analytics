@@ -92,19 +92,6 @@ project/
 └── README.md
 ```
 
-## **Dashboard pages**
-
-Page 1: Overview
-
-Page 2: Product Analysis
-
-Page 3: Customer Analysis
-
-**Dashboard Preview**
-![Dashboard](images/overview.png)
-![Dashboard](images/product_analysis.png)
-![Dashboard](images/customer_analysis.png)
-
 ## **Data Model**
 
 The project uses a star schema consisting of one fact table and three dimension tables.
